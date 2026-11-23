@@ -1,0 +1,21 @@
+{
+  "name": "2office",
+  "displayName": "2office",
+  "version": "1.2.1",
+  "description": "Usa 2office desde Claude Code: mapea un proceso, propón cómo debería ser (qué hace un agente, un sistema o una persona), opera su base con su agente, mira tus proyectos y tus créditos. La IA corre en tu Claude; 2office guarda.",
+  "author": {
+    "name": "Sixteam",
+    "url": "https://2office.online"
+  },
+  "homepage": "https://2office.online/conecta/",
+  "license": "UNLICENSED",
+  "keywords": [
+    "2office",
+    "procesos",
+    "agentes",
+    "organigrama",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://2office.online/privacidad/"
+}

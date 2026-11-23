@@ -1,0 +1,12 @@
+{
+  "name": "2office",
+  "owner": { "name": "Sixteam", "url": "https://2office.online" },
+  "metadata": { "description": "2office en tu Claude: mapea procesos, propón cómo deberían ser y mira tus proyectos." },
+  "plugins": [
+    {
+      "name": "2office",
+      "source": "./plugins/2office",
+      "description": "Conecta Claude Code con tu empresa en 2office: procesos, organigrama, proyectos y créditos."
+    }
+  ]
+}

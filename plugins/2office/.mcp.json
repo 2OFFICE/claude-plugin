@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "2office": {
+      "type": "http",
+      "url": "${TWOOFFICE_MCP_URL:-https://mcp.2office.online/mcp}"
+    }
+  }
+}
