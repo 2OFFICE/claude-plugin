@@ -13,4 +13,4 @@ Skills / Habilidades: `mapear-proceso`, `transformar-proceso`, `operar-proceso`,
 
 Version pinning: the plugin ships only markdown skills and one `.mcp.json` pointing at the HTTPS server above (override with `TWOOFFICE_MCP_URL` for a test server).
 
-Install / Instalar: `/plugin install 2office --marketplace Samuelbf2001/2office-claude-plugin`
+Install / Instalar: `/plugin install 2office --marketplace 2OFFICE/claude-plugin`

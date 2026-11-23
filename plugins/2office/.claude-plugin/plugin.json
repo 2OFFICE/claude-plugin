@@ -8,6 +8,7 @@
     "url": "https://2office.online"
   },
   "homepage": "https://2office.online/conecta/",
+  "repository": "https://github.com/2OFFICE/claude-plugin",
   "license": "UNLICENSED",
   "keywords": [
     "2office",

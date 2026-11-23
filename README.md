@@ -5,7 +5,7 @@ Conecta Claude Code con tu empresa en [2office](https://2office.online): mapea p
 ## Instalar (2 comandos dentro de Claude Code)
 
 ```
-/plugin marketplace add Samuelbf2001/2office-claude-plugin
+/plugin marketplace add 2OFFICE/claude-plugin
 /plugin install 2office@2office
 ```
 
