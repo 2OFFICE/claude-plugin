@@ -1,6 +1,6 @@
 {
   "name": "2office",
-  "owner": { "name": "Sixteam", "url": "https://2office.online" },
+  "owner": { "name": "2office", "url": "https://2office.online" },
   "metadata": { "description": "2office en tu Claude: mapea procesos, propón cómo deberían ser y mira tus proyectos." },
   "plugins": [
     {
