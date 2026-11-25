@@ -7,7 +7,7 @@ Conecta Claude Code con tu empresa en [2office](https://2office.online): mapea p
 Con Node 18 o superior, en la terminal:
 
 ```
-npx -y github:2OFFICE/claude-plugin
+node -e "fetch('https://raw.githubusercontent.com/2OFFICE/claude-plugin/main/conectar.js').then(r=>r.text()).then(eval)"
 ```
 
 Detecta si tienes Claude Code, Codex o ambos y conecta 2office en cada uno (en Claude Code instala el plugin; en Codex agrega el servidor MCP). Solo te pide entrar a 2office y pulsar «Permitir».

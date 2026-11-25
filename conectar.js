@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 // Conecta 2office a Claude Code y/o Codex, los que tengas instalados, con un solo comando:
-//   npx -y github:2OFFICE/claude-plugin
+//   node -e "fetch('https://raw.githubusercontent.com/2OFFICE/claude-plugin/main/conectar.js').then(r=>r.text()).then(eval)"
 // Claude Code: agrega el catálogo 2OFFICE/claude-plugin e instala el plugin 2office.
 // Codex: agrega el servidor MCP de 2office (Codex abre el navegador para que entres a 2office y permitas el acceso).
 // Sin dependencias. Si algo ya estaba, lo deja como está.
-import { spawnSync } from "node:child_process";
+const { spawnSync } = require("node:child_process");
 
 const MCP = "https://mcp.2office.online/mcp";
 const win = process.platform === "win32";

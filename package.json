@@ -1,11 +1,16 @@
 {
   "name": "2office-connect",
   "version": "1.0.0",
-  "description": "Conecta 2office a Claude Code y Codex con un solo comando: npx -y github:2OFFICE/claude-plugin",
-  "type": "module",
-  "bin": { "2office-connect": "conectar.mjs" },
-  "files": ["conectar.mjs"],
-  "engines": { "node": ">=18" },
+  "description": "Conecta 2office a Claude Code y Codex con un solo comando.",
+  "bin": {
+    "2office-connect": "conectar.js"
+  },
+  "files": [
+    "conectar.js"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
   "license": "UNLICENSED",
   "repository": "github:2OFFICE/claude-plugin"
 }
