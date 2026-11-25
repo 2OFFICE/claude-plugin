@@ -2,6 +2,16 @@
 
 Conecta Claude Code con tu empresa en [2office](https://2office.online): mapea procesos, propón cómo deberían ser (qué hace un agente, un sistema o una persona), mira tus proyectos y tus créditos. La IA corre en tu Claude; 2office solo guarda. Lo que hace tu Claude no gasta créditos de IA de 2office.
 
+## Un solo comando (Claude Code y Codex)
+
+Con Node 18 o superior, en la terminal:
+
+```
+npx -y github:2OFFICE/claude-plugin
+```
+
+Detecta si tienes Claude Code, Codex o ambos y conecta 2office en cada uno (en Claude Code instala el plugin; en Codex agrega el servidor MCP). Solo te pide entrar a 2office y pulsar «Permitir».
+
 ## Instalar (2 comandos dentro de Claude Code)
 
 ```
