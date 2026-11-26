@@ -7,7 +7,7 @@
 - **Privacy policy:** https://2office.online/privacidad/ · **Support:** hola@2office.online
 - **Account needed:** a free 2office account (https://app.2office.online/registro).
 
-**ES** — Conecta Claude con tu empresa en 2office: mapea procesos, propón cómo deberían ser, opera la base de un proceso con su agente y mira tus proyectos y créditos. La IA corre en tu Claude; 2office solo guarda lo que confirmas. Solo ve tu empresa; puedes revocar el acceso en 2office › Conectar con Claude.
+**ES** — Conecta Claude con tu empresa en 2office: mapea procesos, propón cómo deberían ser, opera la base de un proceso con su agente y mira tus proyectos y créditos. La IA corre en tu Claude; 2office solo guarda lo que confirmas. Lo que le pides al agente de un proceso se procesa en los servidores de 2office con un modelo de IA de terceros. Solo ve tu empresa; puedes revocar el acceso en 2office › Conectar con Claude.
 
 Skills / Habilidades: `mapear-proceso`, `transformar-proceso`, `operar-proceso`, `estado-proyecto`, `mis-creditos`.
 

@@ -8,7 +8,7 @@ description: Consulta la base de un proceso de 2office y le pide cosas a su agen
 1. `ver_base` para ver las tablas del proceso, sus filas recientes y los agentes (con su `id`).
 2. Si la persona pregunta algo de lo registrado, responde con esas filas; no inventes datos.
 3. Si pide registrar o hacer algo, arma el pedido con todos los datos que dio (quién, qué, cuánto, para cuándo), muéstraselo y pide su sí.
-4. Con el sí, `pedir_al_agente` con `agente_id`, `pedido` y `confirmado: true`. El agente de 2office guarda las filas en su base (gasta créditos de la empresa).
+4. Con el sí, `pedir_al_agente` con `agente_id`, `pedido` y `confirmado: true`. El agente de 2office guarda las filas en su base; la solicitud se procesa en los servidores de 2office con un modelo de IA de terceros (gasta créditos de la empresa).
 5. Cuenta qué guardó y qué rechazó (y por qué). Luego `ver_base` para mostrar la fila nueva.
 
 Nada se cambia ni se borra sin el sí de la persona.
