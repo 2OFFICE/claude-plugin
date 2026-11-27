@@ -1,7 +1,7 @@
 {
   "name": "2office",
   "displayName": "2office",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Usa 2office desde Claude Code: mapea un proceso, propón cómo debería ser (qué hace un agente, un sistema o una persona), opera su base con su agente, mira tus proyectos y tus créditos. La IA corre en tu Claude; 2office guarda.",
   "author": {
     "name": "2office",
